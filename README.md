@@ -8,6 +8,8 @@
 * [Naturatropic](https://nuevaweb.naturaltropic.es/inicio/)
 
 ## 🛠️ Skills
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -15,10 +17,10 @@
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Sony Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-ACACAC?style=for-the-badge&logo=vegas%20pro&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AI Usage](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 
 ## 📖 Currently Studying
