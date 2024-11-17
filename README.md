@@ -42,18 +42,3 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=copocris&amp;theme=dark">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=copocris&amp;theme=dark" />
 </a>
-
-## 🪐 Talent Land 2024
-<div>
-<img width=300px src="https://i.imgur.com/jt4eZeu.jpeg">
-<img width=300px src="https://i.imgur.com/mg8NcU4.jpeg">
-</div>
-
-## 📨 Contact Me
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvixes@dvix.es)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+34694284100)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvix___)
-
-> [!TIP]
-> Use WhatsApp for the fastest respose ;)
